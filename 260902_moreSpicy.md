@@ -4,5 +4,5 @@
 
 | 이름 | 풀이 |
 |---|---|
-| hyeOOO | [🔗]() |
+| hyeOOO | [🔗](https://github.com/hyeOOO/algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/42626.%E2%80%85%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C/%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C.java) |
 | heeun98 | [🔗]() |
